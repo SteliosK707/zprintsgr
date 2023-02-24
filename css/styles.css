@@ -1,3 +1,4 @@
+/******TAG******/
 body{
     background-color: #FAEA48;
 }
@@ -9,4 +10,8 @@ hr{
     border-width: 10px;
     border-color: #FBB454;
     
+}
+/******CLASS******/
+.main-button:hover {
+    font-size: 200%;
 }
